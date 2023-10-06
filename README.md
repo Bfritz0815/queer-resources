@@ -4,6 +4,15 @@ Collection of stuff useful to queer people and spaces
 All materials herein are subject to the individually specified licences. 
 Generally items are selected so that noncommercial usage is permissible.
 
+**Regenbogenkarte** (Rainbow Map) - A map of queer (youth) spaces in Germany, Austria, Switzerland  
+https://github.com/Queer-Lexikon/regenbogenkarte  
+Map: https://karte.queer-lexikon.net/
+
+**Pride-flag search** - What flag is this?  
+https://www.prideflags.org/
+
+**Queer flags as SVG (Vector-graphics)** (Vector graphics are especially useful for print related activities)
+https://github.com/stephfuchs/queer-flags-as-svg
 
 ## For Kids
 
@@ -24,4 +33,13 @@ https://www.pinterest.com/Prideberry/free-lgbt-coloring-pages/
 
 **Queer & Trans Coloring Book** - The Seattle LGBTQ center "gay city" has created a coloring book: 
 https://www.gaycity.org/queer-trans-coloring-book/
+
+
+## More resources
+
+**On Github**:  
+https://github.com/topics/queer
+
+**Queer resources by Thomas Rosen**  
+https://queer.thomasrosen.me/
 
